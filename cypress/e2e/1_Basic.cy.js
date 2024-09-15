@@ -10,3 +10,5 @@ describe('Basic Tests', () => {
     cy.url().should('include', 'demo.x-cart.com')
   })
 })
+
+
